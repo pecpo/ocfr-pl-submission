@@ -1,0 +1,14 @@
+credentials.json
+firebase_creds.json
+.venv
+.idea
+attractions.txt
+chat_history.pkl
+chat_history.txt
+delhi_attractions.json
+init_chat.pkl
+sightseeing_llm_queries_cached.py
+testing.ipynb
+testing.json
+testing.py
+__pycache__
